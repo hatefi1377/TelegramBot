@@ -23,7 +23,7 @@ def aux_dec2utf8(resp):
     return decoded
 
 
-TOKEN = '1118640921:AAEA-DoYAk5BlDmzzDNhUhdeKAknoR5l1qw'
+TOKEN = ''
 URL = 'https://api.telegram.org/bot{}/'.format(TOKEN)
 
 cmd = 'getme'
